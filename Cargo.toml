@@ -10,6 +10,6 @@ keywords = ["jsonrpc", "json-rpc", "json", "rpc", "server"]
 [dependencies]
 #jsonrpc-core = "2.0"
 # temporarily change repo.  
-jsonrpc-core = { git = "https://github.com/qutrino/jsonrpc" }
+jsonrpc-core = { git = "https://github.com/qutrino/jsonrpc-core" }
 hyper = { default-features = false, git = "https://github.com/ethcore/hyper" }
 unicase = "1.3"
